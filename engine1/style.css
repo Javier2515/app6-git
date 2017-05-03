@@ -3,6 +3,8 @@
  *	template Glass
  */
 @import url(https://fonts.googleapis.com/css?family=Oranienbaum&subset=latin,latin-ext,cyrillic);
+.lol{
+	font-size:12px}
 #wowslider-container1 { 
 	display: table;
 	zoom: 1; 
